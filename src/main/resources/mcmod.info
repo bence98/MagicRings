@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MagicRings",
+  "name": "MagicRings",
+  "description": "A mod that adds cool Baubles!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CsokiCraft"],
+  "credits": "Azanor for Baubles API",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["Baubles"]
+}
+]
